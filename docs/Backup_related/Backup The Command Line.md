@@ -62,3 +62,7 @@ Let's call our tool BashGenie because it sounds like we're conceiving of our use
 The pitch is now:
 
 *At BashGenie, we've rearchitected the human-server interface by developing the world's first ever Command Level Backup (CLB) Solution. A backup tool with native command-level support that's as watchful as you are ambitious*
+
+And here's the executive pitch:
+
+*With tech salaries continuing to snowball, we know that it's become difficult to be as discerning as is ideal when going to market. It's with this realisation in mind that we developed BashGenie. BashGenie creates a layer of abstraction between the idiots you hired to run your servers and the command line that holds the digital keys to your infrastructure. With BashGenie, you can hire less qualified people for even less money. And with our native ChatGPT integration you can bring the power of AI to elevate the code monkeys into code geniuses. Be smart. Be a BashGenie.*
