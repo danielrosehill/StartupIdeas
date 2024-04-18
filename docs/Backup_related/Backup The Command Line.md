@@ -53,6 +53,12 @@ SaaS / subscription based. It could be bought by developers or the companies the
 
 ## The Name And The Marketing:
 
-Something that captures the utility of the tool without insulting the intelligence of the potential user base. You could go down the path of naming it something congenial sounding like Jeeves or Claude (JeeveBox!?). 
+**Command level backup**
 
-It would be nice to emphasise in the marketing that this is about building confidence. Kind of like training wheels for bicycles.
+That can be your marketing slogan too because tech marketers have been coming up with unnecessary product subcategories to differentiate themselves from one another for as long as there's been a tech industry. 
+
+Let's call our tool BashGenie because it sounds like we're conceiving of our users as geniuses rather than treating them like the presumed server-wreckers we know them to truly be. 
+
+The pitch is now:
+
+*At BashGenie, we've rearchitected the human-server interface by developing the world's first ever Command Level Backup (CLB) Solution. A backup tool with native command-level support that's as watchful as you are ambitious*
