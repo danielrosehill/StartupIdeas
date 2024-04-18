@@ -12,7 +12,7 @@ A well known classic:
 
 Congratulations. You just combined the deletion operator with the bit that makes it do folders too. And finally you specified that it should start from the root of the filesystem. 
 
-![jcb](/home/daniel/Desktop/jcb.jpg)
+![jcb](/images/jcb.png)
 
 *(Illustration: a bulldozer. If rm -rf / were to be represented by a piece of heavy machinery, this would be it)*
 
