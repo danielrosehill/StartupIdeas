@@ -54,3 +54,25 @@ Because I want to rub in the fact that I figured out how to create tables in Mar
 
 - You'll try to give back to the open source community as far as possible. Ideally open source at least part of your tech. Donate to a project. Do something. 
 - Please do not go down the route of scrimping on dreadful tier 1 support. Understand the value of: customer service, customer success (yes, these are discrete functions) and excellent user documentation. Please hire a competent technical writer to draft that documentation (or two or three). Then have a less technical person try to follow it and ask observe where they get stuck and update the documentation. Iterate until ChatGPT could install the thing.The lack of all of these things is my biggest pet peeve. 
+
+## Author
+
+Daniel Rosehill  
+(public at danielrosehill dot com)
+
+## Licensing
+
+All my GitHub repositories are licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/).
+
+### Summary of the License
+The Creative Commons Attribution 4.0 International (CC BY 4.0) license allows others to:
+- **Share**: Copy and redistribute the material in any medium or format.
+- **Adapt**: Remix, transform, and build upon the material for any purpose, even commercially.
+
+The licensor cannot revoke these freedoms as long as you follow the license terms.
+
+#### License Terms
+- **Attribution**: You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+- **No additional restrictions**: You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+For the full legal code, please visit the [Creative Commons website](https://creativecommons.org/licenses/by/4.0/legalcode).
