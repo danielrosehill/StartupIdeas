@@ -12,8 +12,8 @@ A well known classic:
 
 Congratulations. You just combined the deletion operator with the bit that makes it do folders too. And finally you specified that it should start from the root of the filesystem. 
 
-![jcb](./images/jcb.png)
-
+ ![alt text](images/jcb.jpg)
+ 
 *(Illustration: a bulldozer. If rm -rf / were to be represented by a piece of heavy machinery, this would be it)*
 
 If you suppress its output or go out to grab a quick coffee after initiating it, **the command will recurse into every nook and cranny of the filesystem until absolutely no bits and bytes are left standing to save the remaining shreds of your dignity.** I'm willing to bet that rm -rf / has been the death of many a code repository - and the end of many a job contract.
